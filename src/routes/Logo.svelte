@@ -1,0 +1,1 @@
+<img class ="mx-auto object-scale-down h-28" src="https://cdn1.designhill.com/uploads/personal_designs/e81bf132bdef9f52ce9d3484fb9c856d-dafd3e8c3324f669a4968825497423a316611684683942.jpg?ver=2.12.78" alt="app-logo">

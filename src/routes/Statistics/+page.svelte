@@ -1,0 +1,1 @@
+<p>Thsi is purchase statistics page</p>
